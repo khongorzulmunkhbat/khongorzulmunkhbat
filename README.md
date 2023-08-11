@@ -5,7 +5,7 @@ Hi there! I'm Khongorzul (Zulaa) Munkhbat.
 - 🎥 I like to create music cover videos, travel diaries, and tech podcasts in my free time.
 - ❤️ I believe in the power of human connection
 
-[Instagram](https://instagram.com/centauream)  |  [Youtube](https://youtube.com/@centauream)  |  [Linkedin](https://linkedin.com/in/khongorzulmunkhbat)  |  [Facebook](https://facebook.com/centauream)
+[Website](http://www.khongorzul.com/)  |  [Instagram](https://instagram.com/centauream)  |  [Youtube](https://youtube.com/@centauream)  |  [Linkedin](https://linkedin.com/in/khongorzulmunkhbat)  |  [Facebook](https://facebook.com/centauream)
 
 
 <!---
