@@ -1,8 +1,8 @@
 Hi there! I'm Khongorzul (Zulaa) Munkhbat.
 
-- 👩🏻‍💻 I'm an ML Engineer, ML GDE, and Music lover.
-- 📢 I lead [GDG Ulaanbaatar](https://facebook.com/gdg.ub.org) and [Women Techmakers Mongolia](https://facebook.com/wtmmongolia) communities.
-- 🎥 I like to create music cover videos, travel diaries, and tech podcasts in my free time.
+- 👩🏻‍💻 I'm a Co-founder of [Deep Tech LLC](https://deeptech.mn/) and a [Google Developer Expert](https://g.dev/khongorzulmunkhbat) in Machine Learning.
+- 📢 I lead [GDG Ulaanbaatar](https://facebook.com/gdg.ub.org) and an ambassador of [Women Techmakers Mongolia](https://facebook.com/wtmmongolia) communities side of my work.
+- 🎥 I really love playing violin, piano, and ukulele and creating videos of tech, travel, and music on my [Youtube channel](https://youtube.com/@centauream)
 - ❤️ I believe in the power of human connection
 
 [Website](http://www.khongorzul.com/)  |  [Instagram](https://instagram.com/centauream)  |  [Youtube](https://youtube.com/@centauream)  |  [Linkedin](https://linkedin.com/in/khongorzulmunkhbat)  |  [Facebook](https://facebook.com/centauream)
